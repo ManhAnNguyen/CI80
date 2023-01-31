@@ -1,0 +1,12 @@
+.sidebar-container{
+    background-color: black;
+    color: white;
+    height: 50vh;
+    padding: 40px 100px;
+}
+
+.sidebar-container ul li{
+    list-style: none;
+    margin-top: 40px;
+    font-size: 25px;
+}
